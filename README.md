@@ -56,4 +56,4 @@
 - Telegram: [@leonidperkin27](https://t.me/leonidperkin27)
 ---
 
-> _“Code is poetry — and my GitHub is where I write.”_
+> _“Код — это моя музыка, а GitHub — сцена, где я могу исполнять свои композиции”_
