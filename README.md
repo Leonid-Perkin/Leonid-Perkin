@@ -11,7 +11,7 @@
 - 🖥️ **JavaScript / HTML / CSS** 
 - 🐳 **Docker / Docker Compose** 
 - ⚙️ **Git / GitHub / CI/CD** 
-- 🐧 **Bash / YAML
+- 🐧 **Bash / YAML**
 - 🧩 **C# / WPF**
 
 ---
