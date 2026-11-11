@@ -65,8 +65,8 @@
 ## 📊 Статистика активности GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Leonid-Perkin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Leonid-Perkin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Leonid-Perkin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Leonid-Perkin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
 </p>
 
 ---
